@@ -20,7 +20,16 @@ Sitemaji SDK
 * provider ad url size
 
 ```
-
+320x480:
+http://www.xxx.com/wxhfm.html?cid=1059&s=320x480
+366x549:
+http://www.xxx.com/wxhfm.html?cid=1059&s=366x549 
+427x640:
+http://www.dm5.com/wxhfm.html?cid=1059&s=427x640
+512x768:
+http://www.dm5.com/wxhfm.html?cid=1059&s=512x768
+640x960:
+http://www.dm5.com/wxhfm.html?cid=1059&s=640x960
 ```
 
 * check suport ad szie 
@@ -74,3 +83,7 @@ Sitemaji.setDebug(true);
 	sitemajiAdView.loadUrl(url);
 	```
 
+demo
+---
+
+![](./images/device-2017-08-16-175452.png)
